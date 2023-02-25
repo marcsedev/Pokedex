@@ -16,4 +16,4 @@ Para utilizar esta aplicación, simplemente descarga el código fuente y ábrelo
 
 ## Créditos
 
-Este proyecto fue creado por [Tu Nombre] como parte de un ejercicio de aprendizaje de Android y Kotlin. Las imágenes de los sprites de Pokémon fueron obtenidas de [fuente de las imágenes].
+Este proyecto fue creado por Marc Sogas Esteve como parte de un ejercicio de aprendizaje de Android y Kotlin. Las imágenes de los sprites de Pokémon fueron obtenidas de [fuente de las imágenes].
